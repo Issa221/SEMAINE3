@@ -1,0 +1,40 @@
+header li{
+    float: right;
+    display: inline-block;
+    margin:  0 10px;
+}
+#left {
+    float: left;
+    margin-left: 0px;
+    font-size: 2.5em;
+    font-family: 'Nerko One', cursive;
+}
+#imageprincipale{
+    background: url(Roses.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    margin: 30px 0;
+    width: 100%;
+}
+h1{
+    background-color: rgb(224, 89, 89);
+    color: white;
+    font-size: 2em;
+}
+.B1 img {
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 0;
+}
+.B2 img {
+    width: 30%;
+    height: 200px;
+    float: right;
+    margin: 0;
+}
+.B3 img {
+    width: 30%;
+    height: 200px;
+    float: right;
+    margin: 0;
+}

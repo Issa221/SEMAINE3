@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&family=Dancing+Script:wght@600&display=swap');
+body{
+    font-family: 'Advent Pro', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style-type: none;
+}
+header nav{
+    background-color: lavenderblush;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    opacity: 0.9;
+}
+header li{
+    float: right;
+    font-size: 1.2em;
+}
+header li a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 5px 16px;
+    margin: 0 20px;
+}
+#pays {
+    font-weight: bold;
+    float: left;
+    text-shadow: red;
+    font-size: 2em;
+}
+#imageprincipale {
+    padding-top: 60px;
+    background: url(japon.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 599px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    background-color: rgb(211, 209, 116);
+    font-size: 2.5em;
+}
+.Brazil img {
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+.Russie img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}
+.Japon img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}

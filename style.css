@@ -1,0 +1,30 @@
+
+img{
+    width: 250px;
+}
+.parents div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.Carrée1{
+    background-color: blue;
+}
+.Carrée2{
+    background-color: chocolate;
+}
+.Carrée3{
+    background-color: crimson;
+}
+.Carrée4{
+    background-color: yellow;
+}
+nav ul li{
+    display:inline-block;
+}
+#pays {
+    display: flex;
+}
+h2{
+    padding-top: 10px;
+}

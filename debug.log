@@ -1,0 +1,62 @@
+[1125/094209.008:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/095209.116:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/095209.185:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1125/095209.185:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/095209.185:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/095709.025:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/101209.030:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/102709.043:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/104209.059:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/105707.853:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/111207.858:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/112707.865:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/114207.868:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/115707.884:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/130427.168:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/131927.173:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/132146.811:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/161403.679:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/162509.688:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/162903.692:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/164403.703:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/165903.710:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/183346.657:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/184846.663:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/190346.678:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/191846.694:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/193346.705:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/194846.716:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/200346.732:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1125/201846.744:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/085233.476:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/090733.489:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/092233.496:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/093315.784:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/094741.129:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/102744.890:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/103744.950:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/103744.971:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1126/103744.971:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/103744.972:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/104244.907:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/104618.074:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/105744.921:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/111244.926:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/114015.728:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/115015.772:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/115015.773:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1126/115015.774:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/115015.775:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/115515.753:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/130905.112:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/132405.117:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/133905.123:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/135405.126:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/140905.138:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/140917.104:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/142405.142:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/143905.150:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/145253.363:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/145348.515:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1126/145348.516:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\simplon\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3e90b8d0-e134-4b1b-aa0e-3ae03db7cf31: Le chemin d’accès spécifié est introuvable. (0x3)
+[1127/090533.903:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
